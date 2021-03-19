@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Saludo from './Saludo';
 
-export default function App() {
+export default function App(props) {
   return (
     <div className="App">
       <header className="App-header">
